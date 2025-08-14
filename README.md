@@ -1,6 +1,6 @@
 ## Hi there, I am Avani 👋
 
-🧠​ B.Tech student specialising in AI and ML at IGDTUW,Delhi | Class of '28 
+🧠​ B.Tech student specialising in AI and ML at IGDTUW,Delhi | Class of '28
 😄 Pronouns: She / Her
 ​🌌​ I make Projects related to the field of AI and also do research analysis on various projects.
 😄 I’m looking to collaborate on Hackathons, research and more.
