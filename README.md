@@ -32,3 +32,13 @@
 [![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
+## GitHub Stats 🌱​
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avanijswl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=avanijswl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=avanijswl&theme=transparent&hide_border=false)<br/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
